@@ -155,19 +155,19 @@ The dashboard successfully demonstrates the following outputs.
 
 ### 🔴 Aggressive Driving Dashboard
 
-![Aggressive Dashboard](outputs/aggressive_dashboard.jpeg)
+![Aggressive Dashboard](https://github.com/Gurukiranbh/ML-Smart-Vehicle-Dashboard/blob/main/outputs/aggressive_dashboard.png.jpeg)
 
 ---
 
 ### ⚠️ Reckless Driving Dashboard
 
-![Reckless Dashboard](outputs/reckless_dashboard.jpeg)
+![Reckless Dashboard](https://github.com/Gurukiranbh/ML-Smart-Vehicle-Dashboard/blob/main/outputs/ml_output.png.jpeg)
 
 ---
 
 ### 🤖 Machine Learning Prediction
 
-![ML Output](outputs/ml_output.jpeg)
+![ML Output](https://github.com/Gurukiranbh/ML-Smart-Vehicle-Dashboard/blob/main/outputs/reckless_dashboard.png.jpeg)
 ## 🔮 Future Scope
 
 - GPS-based vehicle tracking
