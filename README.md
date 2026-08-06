@@ -149,7 +149,7 @@ The dashboard successfully demonstrates the following outputs.
 
 ### 🟢 Safe Driving Dashboard
 
-![Safe Dashboard](outputs/safe_dashboard.jpeg)
+![Safe Dashboard](https://github.com/Gurukiranbh/ML-Smart-Vehicle-Dashboard/blob/main/outputs/safe_dashboard.png.jpeg)
 
 ---
 
